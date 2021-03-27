@@ -1,37 +1,35 @@
-#rightContainer-main{
-    height: 90%;
-    display: flex;
-   justify-content: space-around;
-    align-items: center;
+#rightContainer-main {
+  height: 90%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
-#right-text{
-    width: 30%;
-   
- 
+#right-text {
+  width: 30%;
 }
-#right-header{
-    line-height: 28px;
-    font-size: 20px;
-    font-family: "Source Sans Pro", Arial, sans-serif;
-    letter-spacing: -0.1px;
-    color: rgb(56, 45, 139);
-    font-weight: 600;
-    margin-bottom: 24px;
+#right-header {
+  line-height: 28px;
+  font-size: 20px;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  letter-spacing: -0.1px;
+  color: rgb(56, 45, 139);
+  font-weight: 600;
+  margin-bottom: 24px;
 }
-#right-title{
-    line-height: 52px;
-    font-size: 44px;
-    font-family: "Source Sans Pro", Arial, sans-serif;
-    letter-spacing: -0.1px;
-    color: rgb(31, 31, 31);
-    font-weight: normal;
-    margin-bottom: 30px;
+#right-title {
+  line-height: 52px;
+  font-size: 44px;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  letter-spacing: -0.1px;
+  color: rgb(31, 31, 31);
+  font-weight: normal;
+  margin-bottom: 30px;
 }
-#right-body{
-    line-height: 28px;
-    font-size: 20px;
-    font-family: "Source Sans Pro", Arial, sans-serif;
-    letter-spacing: -0.1px;
-    color: rgb(31, 31, 31);
-    font-weight: normal;
+#right-body {
+  line-height: 28px;
+  font-size: 20px;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  letter-spacing: -0.1px;
+  color: rgb(31, 31, 31);
+  font-weight: normal;
 }

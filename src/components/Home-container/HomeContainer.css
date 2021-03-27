@@ -1,37 +1,36 @@
-#main{
-    height: 110%;
-    width: 100%;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+#main {
+  height: 110%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
-#container{
-    width: 35%;
-    margin-left: 5%;
+#container {
+  width: 35%;
+  margin-left: 5%;
 }
-#title{
-    font-family: Source Sans Pro,Arial,sans-serif;
-    line-height: 64px;
-    font-size: 64px;
+#title {
+  font-family: Source Sans Pro, Arial, sans-serif;
+  line-height: 64px;
+  font-size: 64px;
 }
-#description{
-
-    font-family: Source Sans Pro,Arial,sans-serif;
-    line-height: 28px;
-    font-size: 20px;
-    letter-spacing: -0.1px;
-    margin-bottom: 25px;
-    margin-top: 24px;
+#description {
+  font-family: Source Sans Pro, Arial, sans-serif;
+  line-height: 28px;
+  font-size: 20px;
+  letter-spacing: -0.1px;
+  margin-bottom: 25px;
+  margin-top: 24px;
 }
-#joinHome-button{
-    height: 60px;
-    width: 150px;
-    border-radius: 4px;
-    border:none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #0156D2;
-    color: white;
-    font-size: 16px;
+#joinHome-button {
+  height: 60px;
+  width: 150px;
+  border-radius: 4px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0156d2;
+  color: white;
+  font-size: 16px;
 }
