@@ -2,9 +2,10 @@ header{
     display: flex;
     height: 10%;
     width: 100%;
-   
+   position: fixed;
     align-items: center;
     border-bottom: 2px solid #E0E0E0;
+    background-color: white;
     
 }
 
