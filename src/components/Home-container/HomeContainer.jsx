@@ -14,7 +14,7 @@ export default function HomeContainer(){
 <button id='joinHome-button'>Join for Free</button>
             </div>
             <img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/6JVJEaAT8FWwiBfVl1vECY/eccd28d76369194c1bae181bdef80140/hero-b.png?auto=format%2Ccompress&dpr=1&w=459&h=497&q=40'
-            alt='Home picture'/>
+            alt='Homesvg'/>
         </div>
     )
 }

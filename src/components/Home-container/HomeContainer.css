@@ -7,7 +7,7 @@
 }
 #container{
     width: 35%;
-    margin-left: 10%;
+    margin-left: 5%;
 }
 #title{
     font-family: Source Sans Pro,Arial,sans-serif;
@@ -33,4 +33,5 @@
     justify-content: center;
     background-color: #0156D2;
     color: white;
+    font-size: 16px;
 }
