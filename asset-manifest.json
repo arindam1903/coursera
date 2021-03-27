@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/coursera/static/css/main.8f3b3575.chunk.css",
-    "main.js": "/coursera/static/js/main.66e3fc29.chunk.js",
-    "main.js.map": "/coursera/static/js/main.66e3fc29.chunk.js.map",
+    "main.css": "/coursera/static/css/main.adbdf04f.chunk.css",
+    "main.js": "/coursera/static/js/main.23c4c12b.chunk.js",
+    "main.js.map": "/coursera/static/js/main.23c4c12b.chunk.js.map",
     "runtime-main.js": "/coursera/static/js/runtime-main.af5af86c.js",
     "runtime-main.js.map": "/coursera/static/js/runtime-main.af5af86c.js.map",
     "static/js/2.f44396a3.chunk.js": "/coursera/static/js/2.f44396a3.chunk.js",
     "static/js/2.f44396a3.chunk.js.map": "/coursera/static/js/2.f44396a3.chunk.js.map",
     "index.html": "/coursera/index.html",
-    "static/css/main.8f3b3575.chunk.css.map": "/coursera/static/css/main.8f3b3575.chunk.css.map",
+    "static/css/main.adbdf04f.chunk.css.map": "/coursera/static/css/main.adbdf04f.chunk.css.map",
     "static/js/2.f44396a3.chunk.js.LICENSE.txt": "/coursera/static/js/2.f44396a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.af5af86c.js",
     "static/js/2.f44396a3.chunk.js",
-    "static/css/main.8f3b3575.chunk.css",
-    "static/js/main.66e3fc29.chunk.js"
+    "static/css/main.adbdf04f.chunk.css",
+    "static/js/main.23c4c12b.chunk.js"
   ]
 }
