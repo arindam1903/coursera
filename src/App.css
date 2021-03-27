@@ -1,6 +1,11 @@
 #screen{
   height: 100vh;
   
+}
+
+#label{
+  height: 30%;
+  text-align: center;
 
 }
 
